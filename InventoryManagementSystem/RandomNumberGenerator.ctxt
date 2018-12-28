@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RandomNumberGenerator()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ RandomNumberGenerator\r\n
+comment1.params=minimumValue\ maximumValue
+comment1.target=RandomNumberGenerator(int,\ int)
+comment2.params=
+comment2.target=int\ getMinimumValue()
+comment3.params=minimumValue
+comment3.target=void\ setMinimumValue(int)
+comment4.params=
+comment4.target=int\ getMaximumValue()
+comment5.params=maximumValue
+comment5.target=void\ setMaximumValue(int)
+comment6.params=
+comment6.target=void\ dipayNumValue()
+comment7.params=
+comment7.target=int\ generator()
+numComments=8
